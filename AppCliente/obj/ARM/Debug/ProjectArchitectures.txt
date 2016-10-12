@@ -1,0 +1,1 @@
+C:\Users\AndreFreitas\Documents\Visual Studio 2015\Projects\WebApi_revisao\WebApi\AppCliente\AppCliente.csproj;arm
